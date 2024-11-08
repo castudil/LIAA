@@ -60,3 +60,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9649a872d00b5111bb80bc8cf1d32f0de91b69a2
