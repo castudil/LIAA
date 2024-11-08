@@ -1,73 +1,93 @@
-# Homepage
+# Laboratorio de Inteligencia Artificial Aplicada (LIAA)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Home (Inicio)
+### Bienvenida
+Bienvenido al Laboratorio de Inteligencia Artificial Aplicada (LIAA) de la Universidad de Talca, Facultad de Ingeniería. Nuestro objetivo es impulsar la investigación y la innovación en el campo de la inteligencia artificial aplicada.
 
-## Code Annotation Examples
+### Noticias
+- [Noticia 1](#)
+- [Noticia 2](#)
+- [Noticia 3](#)
 
-### Codeblocks
+## Sobre Nosotros
+### Misión y Visión
+Nuestra misión es desarrollar soluciones innovadoras utilizando inteligencia artificial para resolver problemas complejos en diversas áreas. Nuestra visión es ser un referente en investigación aplicada y formación de capital humano avanzado.
 
-Some `code` goes here.
+### Equipo
+#### Director
+- Dr. César Astudillo
 
-### Plain codeblock
+#### Estudiantes Doctorales
+- Dr (c) Javiera Arias
+- Ing. Hugo Nuñez
 
-A plain codeblock:
+#### Ingeniero de Apoyo
+- Ing. Ignacio Martinez
 
-```
-Some code here
-def myfunction()
-// some comment
-```
+#### Estudiantes Tesistas
+- Elias Ocque
 
-#### Code for a specific language
+## Investigación
+### Proyectos Actuales
+- [Proyecto 1](#)
+- [Proyecto 2](#)
+- [Proyecto 3](#)
 
-Some more code with the `py` at the start:
+### Red de Colaboración
+- David Diaz, FEN, UCHILE
+- Xaviera Lopez, Facultad de Ingeniería, UCM
+- Juan Bekios, UCN
+- John Ommen, Carleton University, Canada
+- Colin Belinger, Canada
+- Alfredo Candia, UFT, Chile
+- Sebastian Maldonado, FEN, Uchile
+- Ruber Hernández, UCM
+- Sergio Elastin, Queen Mary University, UK
 
-``` py
-import tensorflow as tf
-def whatever()
-```
+## Publicaciones
+### Artículos Científicos
+- [Artículo 1](#)
+- [Artículo 2](#)
+- [Artículo 3](#)
 
-#### With a title
+### Presentaciones en Congresos
+- [Presentación 1](#)
+- [Presentación 2](#)
+- [Presentación 3](#)
 
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
+### Tesis Anteriores
+- [Tesis 1](#)
+- [Tesis 2](#)
+- [Tesis 3](#)
 
-#### With line numbers
+## Actividades
+### Eventos Científicos
+- [ICPRS](http://icprs.org)
+- [CIARP](http://ciarp24.org)
+- [INFORNOR](#)
+- [Webinar ACHIRP](#)
 
-``` py linenums="1"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
+### Actividades de Difusión
+- [Actividad 1](#)
+- [Actividad 2](#)
+- [Actividad 3](#)
 
-#### Highlighting lines
+## Contacto
+### Formulario de Contacto
+Si tienes alguna consulta o deseas más información, por favor rellena el [formulario de contacto](#).
 
-``` py hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
+### Información de Contacto
+- *Dirección:* Universidad de Talca, Facultad de Ingeniería
+- *Teléfono:* +56 71 234 5678
+- *Correo Electrónico:* info@liaa.utalca.cl
 
-## Icons and Emojs
+## Recursos
+### Enlaces Útiles
+- [Enlace 1](#)
+- [Enlace 2](#)
+- [Enlace 3](#)
 
-:smile: 
-
-:fontawesome-regular-face-laugh-wink:
-
-:fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }
-
-
-## Prueba de inclusión
-
-!include ./extra/test.md
+### Descargas
+- [Documento 1](#)
+- [Documento 2](#)
+- [Documento 3](#)
