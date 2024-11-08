@@ -1,9 +1,9 @@
-site_name: Smart Mesck
+site_name: Laboratorio de inteligencia artificial aplicada
 site_url: 
 theme:
   name: material
-  logo: smart-mesck-logo.png
-  favicon: smart-mesck-logo.png
+  logo: logo.png
+  favicon: favicon.png
   nav:
 
   features:
@@ -40,11 +40,9 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/DarkNacho
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com
+      link: https://github.com/castudil
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com
+      link: www.linkedin.com/in/cesar-astudillo-93137143
   
 markdown_extensions:
   - pymdownx.highlight:
@@ -63,5 +61,3 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: |
-  &copy; 2024 <a href="https://cttn.cl"  target="_blank" rel="noopener">Smart-Mesck</a>
