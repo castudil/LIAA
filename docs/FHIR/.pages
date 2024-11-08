@@ -1,0 +1,6 @@
+nav:
+    - introduction.md
+    - fhir.md
+    - fhirserver.md
+    - fhirclient.md    
+    - resources.md

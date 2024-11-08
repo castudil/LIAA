@@ -1,0 +1,35 @@
+name: ci 
+on:
+  push:
+    branches:
+      - docs
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2-dev
+          pip install mkdocs-material
+          pip install mkdocs-awesome-pages-plugin
+          pip install "mkdocs-material[imaging]"
+          pip install pillow cairosvg
+
+      - name: Deploy
+        run: mkdocs gh-deploy --force

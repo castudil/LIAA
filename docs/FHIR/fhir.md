@@ -1,0 +1,7 @@
+# Fast Healthcare Interoperability Resources
+
+FHIR, es uno de esos estándares de interoperabilidad de datos que se utiliza y adopta ampliamente en la industria de la salud para compartir información relacionada con la atención médica. FHIR sigue siendo muy prometedor para desarrollar un enfoque basado en aplicaciones para la interoperabilidad y el intercambio de información sanitaria.
+
+## Historia
+
+A principios de la década de 2000, la tarea de almacenar y compartir datos era una tarea difícil. Esto también era un caso real para la información relacionada a una atención médica. Antes de FHIR, HL7v2 y HL7v3 era el estándar utilizado para la atención médica. HL7v2 fue uno de los estándares iniciales desarrollados por HL7, pero su naturaleza de ser demasiado denso en información y complicado llevó al desarrollo de un estándar más nuevo llamado HL7v3. Aunque HL7v3 supuso un gran esfuerzo y tenía muchas características interesantes, nunca despegó porque no podía mantenerse al día con la tecnología de esa época. La tecnología básica fue una gran barrera para lograr cualquier tipo de interoperabilidad tanto en el caso de la v2 como de la v3. FHIR se creó como respuesta a estas antiguas tecnologías para satisfacer las necesidades modernas de datos e interoperabilidad.
